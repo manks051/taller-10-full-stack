@@ -10,8 +10,8 @@
 <h2>Punto 2: Suma de Constantes y Variables</h2>
 <img src="./public/images/punto-2.PNG" alt="punto 2">
 
-
 <h2>Punto 3: Suma de dos numeros indicados por el usuario</h2>
+<img src="./public/images/punto-3.PNG" alt="punto 3">
 
 <h2>Punto 4: Datos de usuario en la consola</h2>
 
