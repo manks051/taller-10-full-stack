@@ -31,6 +31,8 @@
 <img src="./public/images/punto-8.2.PNG" alt="punto 8.2">
 
 <h2>Punto 9: Tabla de multiplicar usando while</h2>
+<img src="./public/images/punto-9.1.PNG" alt="punto 8.1">
+<img src="./public/images/punto-9.2.PNG" alt="punto 8.2">
 
 <h2>Punto 10: Números pares usando while</h2>
 
