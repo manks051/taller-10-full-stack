@@ -23,6 +23,8 @@
 <img src="./public/images/punto-6.PNG" alt="punto 6">
 
 <h2>Punto 7: Selección de operación aritmética</h2>
+<img src="./public/images/punto-7.1.PNG" alt="punto 7-1">
+<img src="./public/images/punto-7.2.PNG" alt="punto 7-2">
 
 <h2>Punto 8: Entrada de bolera usando Switch</h2>
 
