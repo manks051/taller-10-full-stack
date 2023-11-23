@@ -43,6 +43,8 @@
 <img src="./public/images/punto-11.2.PNG" alt="punto 11.2">
 
 <h2>Punto 12: Tabla de multiplicar usando for</h2>
+<img src="./public/images/punto-12.1.PNG" alt="punto 12.1">
+<img src="./public/images/punto-12.2.PNG" alt="punto 12.2">
 
 <h2>Punto 13: Suma de valores de un arreglo usando foreach</h2>
 
