@@ -35,6 +35,8 @@
 <img src="./public/images/punto-9.2.PNG" alt="punto 8.2">
 
 <h2>Punto 10: Números pares usando while</h2>
+<img src="./public/images/punto-10.1.PNG" alt="punto 10.1">
+<img src="./public/images/punto-10.2.PNG" alt="punto 10.2">
 
 <h2>Punto 11: Números impares usando for</h2>
 
