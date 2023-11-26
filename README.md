@@ -56,3 +56,7 @@
 <img src="./public/images/punto-14-func-2.PNG" alt="punto 14.2">
 
 <h2>Punto 15: Selección de operación aritmética usando funciones</h2>
+<img src="./public/images/punto-15.PNG" alt="punto 15">
+<h3>Funcion</h3>
+<img src="./public/images/punto-15-func-1.PNG" alt="punto 15.1">
+<img src="./public/images/punto-15-func-2.PNG" alt="punto 15-2">
