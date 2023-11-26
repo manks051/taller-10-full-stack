@@ -50,5 +50,9 @@
 <img src="./public/images/punto-13.PNG" alt="punto 13">
 
 <h2>Punto 14: Revision de contraseña</h2>
+<img src="./public/images/punto-14.PNG" alt="punto 14">
+<h3>Funcion</h3>
+<img src="./public/images/punto-14-func-1.PNG" alt="punto 14.1">
+<img src="./public/images/punto-14-func-2.PNG" alt="punto 14.2">
 
 <h2>Punto 15: Selección de operación aritmética usando funciones</h2>
